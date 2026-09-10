@@ -1,4 +1,4 @@
-# Excel Date Functions Practice 📊
+# Excel Date Functions Practice 
 
 This project contains my practice work with important Excel date functions.
 
